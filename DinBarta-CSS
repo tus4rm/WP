@@ -1,0 +1,50 @@
+.bottom_header_bg {
+    background: #9f0303;
+}
+
+.home_sidebar_cat_title strong {
+  background-color: #9f0303;
+}
+
+.scrollmenu {
+    background: #000000;
+    color: #fafafa;
+}
+
+.leatest_popular_container .allnews a {
+    background-color: #9f0303;
+}
+
+ .leatest_btn {
+    background: #9f0303;
+}
+
+ .popular_btn {
+    background: #9f0303;
+}
+
+.opened {
+    background: #000;
+    color: #ffffff;
+}
+
+.btn-danger {
+    color: #fff;
+   background-color: #9f0303 !important;
+}
+
+.headline_left {
+padding-left: 5px;
+}
+
+.pb-2, .py-2 {
+	display: none;
+}
+
+.footer_three_col {
+    background: #000000;
+}
+
+.marquee_title_sizeing {
+    background-color: #9f0303;
+}
